@@ -196,95 +196,97 @@ group "daisysGarden" [
   sign [
    code [ "DD_sign2" ]
    pos [ 0 0 0 ]
-   nhpr [ 0 0 -2.0 ]
+   nhpr [ 0 0 -3.0 ]
    scale [ 1.85 1 1.35 ]
    baseline [
     code [ "TT_Comedy" ]
     color [ 0.439216 0.247059 0.184314 1 ]
-    pos [ 0 0 -0.3 ]
-    scale [ 1.1 1 1.7 ]
+    pos [ 0 0 -0.2 ]
+    scale [ 1.45 1 1.7 ]
     wiggle [ 7 ]
     stumble [ 0.1 ]
-	width [ 2 ]
     text [
-     letters [ "C" ]
-    ]
-    text [
-     letters [ "H" ]
+     letters [ "P" ]
     ]
     text [
-     letters [ "E" ]
+     letters [ "i" ]
     ]
     text [
-     letters [ " " ]
+     letters [ "n" ]
     ]
     text [
-     letters [ " " ]
-    ]
-	text [
-     letters [ " " ]
-    ]
-	text [
-     letters [ " " ]
-    ]
-	text [
-     letters [ " " ]
+     letters [ "e" ]
     ]
     text [
-     letters [ " " ]
+     letters [ "c" ]
+    ]
+    text [
+     letters [ "o" ]
+    ]
+    text [
+     letters [ "n" ]
+    ]
+    text [
+     letters [ "e" ]
     ]
     text [
      letters [ " " ]
     ]
     text [
-     letters [ " " ]
+     letters [ "P" ]
     ]
     text [
-     letters [ " " ]
+     letters [ "l" ]
     ]
     text [
-     letters [ " " ]
+     letters [ "a" ]
+    ]
+    text [
+     letters [ "c" ]
+    ]
+    text [
+     letters [ "e" ]
     ]
    ]
    baseline [
     code [ "TT_Comedy" ]
     color [ 0.439216 0.247059 0.184314 1 ]
-    pos [ 0 0 -1.2 ]
+    pos [ 0 0 -1.4 ]
     scale [ 1.2 1 1.2 ]
     wiggle [ 3 ]
     stomp [ 0.0367716 ]
     text [
-     letters [ " " ]
+     letters [ "A" ]
+    ]
+    text [
+     letters [ "c" ]
+    ]
+    text [
+     letters [ "o" ]
+    ]
+    text [
+     letters [ "r" ]
+    ]
+    text [
+     letters [ "n" ]
     ]
     text [
      letters [ " " ]
     ]
     text [
-     letters [ " " ]
+     letters [ "A" ]
     ]
     text [
-     letters [ " " ]
+     letters [ "c" ]
     ]
     text [
-     letters [ " " ]
+     letters [ "r" ]
     ]
     text [
-     letters [ " " ]
+     letters [ "e" ]
     ]
     text [
-     letters [ " " ]
-    ]
-    text [
-     letters [ " " ]
-    ]
-    text [
-     letters [ " " ]
-    ]
-    text [
-     letters [ " " ]
-    ]
-    text [
-     letters [ " " ]
+     letters [ "s" ]
     ]
    ]
   ]
