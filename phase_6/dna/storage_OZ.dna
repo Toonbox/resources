@@ -125,6 +125,9 @@ hood_model "phase_8/models/props/window_flowerbox_wood" [
 hood_model "phase_8/models/modules/hqDG" [
 	store_node [ "toon_landmark" "toon_landmark_hqDG" "" ]
 	]
+hood_model "phase_3.5/models/modules/hqTT" [
+	store_node [ "toon_landmark" "toon_landmark_hqTT" "" ]
+	]
 
 store_font [ "font" "TT_Comedy" "phase_3/models/fonts/Comedy" ]
 
